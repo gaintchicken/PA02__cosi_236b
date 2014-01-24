@@ -1,0 +1,45 @@
+vagrant@vagrant-ubuntu-i386:/vagrant/PA01__cosi_236b$ ruby movie_data.rb
+first 10 most popular:
+50
+100
+181
+258
+174
+127
+286
+1
+98
+288
+last 10 most popular
+1546
+1366
+1564
+1574
+1671
+1325
+1341
+1352
+1626
+1659
+first 10 most similar(1):
+276
+655
+13
+450
+303
+92
+416
+429
+435
+293
+last 10 most similar(1):
+812
+88
+155
+341
+631
+685
+688
+729
+0
+944
