@@ -74,13 +74,3 @@ class MovieData
 	end
 
 end
-
-md = MovieData.new("data/u1.base", "data/u1.test")
-md.load_data
-puts Time.now
-mt = md.run_test(10000)
-puts Time.now
-puts mt.mean
-puts mt.stddev
-puts mt.rms
-mt.to_a
